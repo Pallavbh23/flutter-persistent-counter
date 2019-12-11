@@ -1,16 +1,5 @@
-# testing_app
+# Persistent Counter App
 
-A new Flutter application.
+My first Flutter application. It modifies the Flutter counter app so that the counter value remains persistent even after closing the app. It also has a down counter. I have modified it to be a fun slap counter app in which the name of the victim can be changed by entering it in the text bar provided. Since it was my first time using Flutter, I have tried experimenting various things so my app might have residual code in the form of comments.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
